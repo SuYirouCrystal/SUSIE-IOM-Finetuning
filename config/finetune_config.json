@@ -1,0 +1,11 @@
+{
+  "model_name": "t5-base",
+  "dataset_path": "data/processed/train.jsonl",
+  "output_dir": "models/iom_model",
+  "resume_from_checkpoint": "models/iom_model/checkpoint-184086",
+  "num_train_epochs": 3,
+  "batch_size": 4,
+  "gradient_accumulation_steps": 256,
+  "gradient_checkpointing": true,
+  "learning_rate": 5e-5
+}

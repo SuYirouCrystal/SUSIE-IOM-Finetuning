@@ -1,0 +1,5483 @@
+[
+  {
+    "subject_text": "Some investigations",
+    "relation": "take",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Some investigations",
+    "relation": "occur",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Some investigations",
+    "relation": "follow",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "who",
+    "relation": "presence",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Housekeeping practices",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "disorderly or haphazard storage",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Accumulations",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Haphazardly stored materials",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Housekeeping practices",
+    "relation": "ignite",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "disorderly or haphazard storage",
+    "relation": "ignite",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Accumulations",
+    "relation": "ignite",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Haphazardly stored materials",
+    "relation": "ignite",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Housekeeping practices",
+    "relation": "increase",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "disorderly or haphazard storage",
+    "relation": "increase",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Accumulations",
+    "relation": "increase",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Haphazardly stored materials",
+    "relation": "increase",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Housekeeping practices",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "disorderly or haphazard storage",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Accumulations",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Haphazardly stored materials",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "involve",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO use",
+    "relation": "involve",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "involve",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Firms",
+    "relation": "involve",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "apply",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO use",
+    "relation": "apply",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Firms",
+    "relation": "apply",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO use",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Firms",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "ensure",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "ensure",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "ensure",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "ensure",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "require",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "require",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "require",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "require",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "expand",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "expand",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "expand",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "expand",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "expand",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "expand",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "expand",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "expand",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "LOTO",
+    "relation": "include",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "no one",
+    "relation": "include",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the equipment",
+    "relation": "include",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Such additional LOTO- related situations",
+    "relation": "include",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the danger zone",
+    "relation": "expose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the danger zone",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "accidental spills",
+    "relation": "use",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "These activities",
+    "relation": "use",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "accidental spills",
+    "relation": "address",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "These activities",
+    "relation": "address",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "accidental spills",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "These activities",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "accidental spills",
+    "relation": "note",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "These activities",
+    "relation": "note",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "accidental spills",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "These activities",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Flammable and combustible materials",
+    "relation": "come",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Flammable and combustible materials",
+    "relation": "associate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Normal practice",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the machine guarding",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Normal practice",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the machine guarding",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Normal practice",
+    "relation": "assume",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the machine guarding",
+    "relation": "assume",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Normal practice",
+    "relation": "take",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the machine guarding",
+    "relation": "take",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "This force",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "This force",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "This force",
+    "relation": "knock",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "design",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "design",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "design",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "design",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "adjust",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the user",
+    "relation": "adjust",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "adjust",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Examples",
+    "relation": "adjust",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "require",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Inspecting processing equipment",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "evidence collection",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the Division",
+    "relation": "capture",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the Division",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "recommend",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "windows",
+    "relation": "recommend",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "ensure",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "windows",
+    "relation": "ensure",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "occur",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "windows",
+    "relation": "occur",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "reduce",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "windows",
+    "relation": "reduce",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "who",
+    "relation": "assign",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Trip Coordinator",
+    "relation": "assign",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "DTO",
+    "relation": "assign",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "who",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Trip Coordinator",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "DTO",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "who",
+    "relation": "capture",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Trip Coordinator",
+    "relation": "capture",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "DTO",
+    "relation": "capture",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "who",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Trip Coordinator",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "DTO",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Personal Property Management Program",
+    "relation": "hold",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "The Personal Property Management Program",
+    "relation": "oversee",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "common sense",
+    "relation": "rest",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "common sense",
+    "relation": "suffice",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "reimbursement",
+    "relation": "report",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "reimbursement",
+    "relation": "obtain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "reimbursement",
+    "relation": "clear",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Materials",
+    "relation": "use",
+    "object_text": "an EIR",
+    "subject_cls": "Materials",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Materials",
+    "relation": "use",
+    "object_text": "an official file plan",
+    "subject_cls": "Materials",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "The primary criteria",
+    "relation": "find",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The primary criteria",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The FDA",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This policy",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The FDA",
+    "relation": "dictate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This policy",
+    "relation": "dictate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "dictate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The FDA",
+    "relation": "reflect",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This policy",
+    "relation": "reflect",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "reflect",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Who",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "not the HCT/P",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "HCT/Ps",
+    "relation": "register",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Who",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "not the HCT/P",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "HCT/Ps",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Who",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "not the HCT/P",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "HCT/Ps",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Who",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "not the HCT/P",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "HCT/Ps",
+    "relation": "exempt",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Who",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "not the HCT/P",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Establishments",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "HCT/Ps",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The contact offices",
+    "relation": "ams",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The contact offices",
+    "relation": "discuss",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The contact offices",
+    "relation": "find",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The contact offices",
+    "relation": "be",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "DOD",
+    "relation": "procure",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "EPA",
+    "relation": "re",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "this MOU",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "medical therapy",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vitro diagnostic kits",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vivo",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "all those",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "byproduct",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "this MOU",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "medical therapy",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "vitro diagnostic kits",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "vivo",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "all those",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "facility",
+    "object_text": "byproduct",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "this MOU",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "medical therapy",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vitro diagnostic kits",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vivo",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "all those",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "byproduct",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "this MOU",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "medical therapy",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vitro diagnostic kits",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "vivo",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "all those",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Drugs",
+    "relation": "include",
+    "object_text": "byproduct",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "the investigator",
+    "relation": "conduct",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "environmental contamination",
+    "relation": "zone",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Zone",
+    "relation": "zone",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "environmental contamination",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Zone",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "environmental contamination",
+    "relation": "encompass",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Zone",
+    "relation": "encompass",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Zone",
+    "relation": "handle",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Zone",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "100 grams",
+    "relation": "collect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "100 grams",
+    "relation": "scrape",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "100 grams",
+    "relation": "collect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "see",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "see",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "collect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "collect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "open",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "open",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "place",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "place",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "expose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "expose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "set",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "set",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "that amount",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "each inline sample",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "describe",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Equipment",
+    "relation": "be",
+    "object_text": "1.A.",
+    "subject_cls": "Equipment",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "2INV sample",
+    "relation": "include",
+    "object_text": "Drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "3Official Sample",
+    "relation": "include",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "3Official Sample",
+    "relation": "372(b",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "cross",
+    "relation": "include",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "Label",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "quote",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the potency",
+    "relation": "describe",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "include",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "wrap",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "tape",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "use",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "include",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the sample",
+    "relation": "prepare",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the inspection",
+    "relation": "read",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Many types",
+    "relation": "lend",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "firms",
+    "relation": "lend",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the light",
+    "relation": "lend",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many types",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "firms",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the light",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many types",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "firms",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the light",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many types",
+    "relation": "accomplish",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "firms",
+    "relation": "accomplish",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the light",
+    "relation": "accomplish",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many types",
+    "relation": "prepare",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "firms",
+    "relation": "prepare",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the light",
+    "relation": "prepare",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the establishment",
+    "relation": "obtain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the establishment",
+    "relation": "make",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the establishment",
+    "relation": "photocopy",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "The following",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Items",
+    "relation": "report",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the same procedures",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the procedures",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Your experience",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the same procedures",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the procedures",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Your experience",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the same procedures",
+    "relation": "help",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the procedures",
+    "relation": "help",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Your experience",
+    "relation": "help",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "sample",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "sample",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "note",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "note",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "see",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Samples",
+    "relation": "see",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Plant employees",
+    "relation": "keep",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "litter",
+    "relation": "keep",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the first step",
+    "relation": "keep",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Environmental factors",
+    "relation": "keep",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Plant employees",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "litter",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the first step",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Environmental factors",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Plant employees",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "litter",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the first step",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Environmental factors",
+    "relation": "have",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Plant employees",
+    "relation": "exercise",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "litter",
+    "relation": "exercise",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the first step",
+    "relation": "exercise",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Environmental factors",
+    "relation": "exercise",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Plant employees",
+    "relation": "contribute",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "litter",
+    "relation": "contribute",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the first step",
+    "relation": "contribute",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Environmental factors",
+    "relation": "contribute",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "maintain",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "check",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "determine",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "which",
+    "relation": "determine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "itemize",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "itemize",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "itemize",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "itemize",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "evaluate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "evaluate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "evaluate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "evaluate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "determine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "determine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "determine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "determine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "check",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "check",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "check",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The plant",
+    "relation": "check",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "holding times",
+    "relation": "subject",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "holding times",
+    "relation": "subject",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "holding times",
+    "relation": "practice",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "holding times",
+    "relation": "practice",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Equipment",
+    "relation": "use",
+    "object_text": "raw materials",
+    "subject_cls": "Equipment",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Equipment",
+    "relation": "use",
+    "object_text": "process",
+    "subject_cls": "Equipment",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Equipment",
+    "relation": "use",
+    "object_text": "such material / workmanship",
+    "subject_cls": "Equipment",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "Chutes",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rap",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rubber mallet",
+    "relation": "inspect",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Chutes",
+    "relation": "look",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rap",
+    "relation": "look",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rubber mallet",
+    "relation": "look",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Chutes",
+    "relation": "appear",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rap",
+    "relation": "appear",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rubber mallet",
+    "relation": "appear",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Chutes",
+    "relation": "see",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rap",
+    "relation": "see",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a rubber mallet",
+    "relation": "see",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Breakage",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Breakage",
+    "relation": "spray",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "describe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "describe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "describe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "describe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "describe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "confirm",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "confirm",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "confirm",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "confirm",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "confirm",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "lose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "lose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "lose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "lose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "lose",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "check",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "use",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the firm",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a 100-ppm free chlorine",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Many sanitizing solutions",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "any sanitizers",
+    "relation": "ensure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "draw",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "draw",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "draw",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "draw",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "list",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "list",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "list",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "provide",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "provide",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "provide",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "observe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "observe",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "observe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "observe",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "for",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "a brief description",
+    "relation": "for",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "for",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the assignment",
+    "relation": "for",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Reworking procedures",
+    "relation": "observe",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "kneading",
+    "relation": "observe",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Reworking procedures",
+    "relation": "offer",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "kneading",
+    "relation": "offer",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Reworking procedures",
+    "relation": "determine",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "kneading",
+    "relation": "determine",
+    "object_text": "process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Observations",
+    "relation": "observe",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Observations",
+    "relation": "clean",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Observations",
+    "relation": "procedure",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Observations",
+    "relation": "equipment",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Observations",
+    "relation": "document",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "document",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "document",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "fail",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "fail",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "handle",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "employees",
+    "relation": "handle",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "a firm",
+    "relation": "determine",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "review",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "note",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "Office",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "include",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This group",
+    "relation": "see",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the investigator",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. Agent",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. agent",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the agency",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This information",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "verify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the investigator",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. Agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the agency",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This information",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the investigator",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. Agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the agency",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This information",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the investigator",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. Agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "A U.S. agent",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the agency",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This information",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the FDA",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "contain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "delegate",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "authority",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "CVM",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "CVM",
+    "relation": "use",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "CVM",
+    "relation": "use",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "set",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "set",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "set",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "set",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "set",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "define",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "define",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "define",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "define",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "define",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "issue",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "issue",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "issue",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "issue",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "issue",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "contain",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "contain",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "contain",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "contain",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "contain",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Extra-label drug use",
+    "relation": "contact",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These regulations",
+    "relation": "contact",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "veterinarians",
+    "relation": "contact",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The regulations",
+    "relation": "contact",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "what",
+    "relation": "contact",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "intend",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "intend",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "direct",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "direct",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Products",
+    "relation": "refer",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "manufacturer",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "meet",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "conduct",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "issue",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "include",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "believe",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "be",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "These manufacturers",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Assignments",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the finished device manufacturer",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The QSR",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "The preamble",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "FDA",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "the explicit addition",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "And \"...inspections",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "components",
+    "relation": "state",
+    "object_text": "-process",
+    "subject_cls": "Unknown",
+    "object_cls": "Process"
+  },
+  {
+    "subject_text": "Blood and blood products",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "regulate",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Blood and blood products",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Blood and blood products",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "have",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Blood and blood products",
+    "relation": "provide",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "provide",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "subpart",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "require",
+    "object_text": "investigational HCT/Ps",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "require",
+    "object_text": "an IND",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "require",
+    "object_text": "the FDA",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "require",
+    "object_text": "the FDA pursuant",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "require",
+    "object_text": "21 CFR",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "manufacture",
+    "object_text": "investigational HCT/Ps",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "manufacture",
+    "object_text": "an IND",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "manufacture",
+    "object_text": "the FDA",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "manufacture",
+    "object_text": "the FDA pursuant",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "drugs",
+    "relation": "manufacture",
+    "object_text": "21 CFR",
+    "subject_cls": "Drugs",
+    "object_cls": "Unknown"
+  },
+  {
+    "subject_text": "the CROs",
+    "relation": "Organization",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The medical device regulations",
+    "relation": "Organization",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the CROs",
+    "relation": "submit",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The medical device regulations",
+    "relation": "submit",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the CROs",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The medical device regulations",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "the CROs",
+    "relation": "hold",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The medical device regulations",
+    "relation": "hold",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "give",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the benefits",
+    "relation": "give",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "new safety data",
+    "relation": "give",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "an inspection",
+    "relation": "give",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Each REMS",
+    "relation": "give",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the benefits",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "new safety data",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "an inspection",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Each REMS",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the benefits",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "new safety data",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "an inspection",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Each REMS",
+    "relation": "require",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Section",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the benefits",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "new safety data",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "an inspection",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Each REMS",
+    "relation": "be",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "Sec",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "a)(2",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The provisions",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "which",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the case",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "who",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the Secretary",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "that inspection",
+    "relation": "apply",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "product",
+    "relation": "code",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the product",
+    "relation": "code",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "product",
+    "relation": "identify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the product",
+    "relation": "identify",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "product",
+    "relation": "forget",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "the product",
+    "relation": "forget",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Use",
+    "relation": "contain",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "contain",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Use",
+    "relation": "see",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "which",
+    "relation": "see",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "National Academy",
+    "relation": "recall",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Physical damage",
+    "relation": "investigate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Physical damage",
+    "relation": "examine",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Physical damage",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Physical damage",
+    "relation": "contaminate",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Physical damage",
+    "relation": "see",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Firefighting",
+    "relation": "involve",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Firefighting",
+    "relation": "product",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The segregation process",
+    "relation": "create",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "insurance",
+    "relation": "create",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "what",
+    "relation": "create",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The segregation process",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "insurance",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "what",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The segregation process",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "insurance",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "what",
+    "relation": "be",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The segregation process",
+    "relation": "advise",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "insurance",
+    "relation": "advise",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "what",
+    "relation": "advise",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The segregation process",
+    "relation": "instruct",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "insurance",
+    "relation": "instruct",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "what",
+    "relation": "instruct",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "The Office",
+    "relation": "provide",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This office",
+    "relation": "provide",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "The Office",
+    "relation": "oversee",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "This office",
+    "relation": "oversee",
+    "object_text": "drugs",
+    "subject_cls": "Unknown",
+    "object_cls": "Drugs"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "contain",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "contain",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "refer",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "refer",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "amount",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "amount",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "prepare",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "prepare",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "include",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Your memo",
+    "relation": "include",
+    "object_text": "materials",
+    "subject_cls": "Unknown",
+    "object_cls": "Materials"
+  },
+  {
+    "subject_text": "Divisions",
+    "relation": "maintain",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Divisions",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "Divisions",
+    "relation": "be",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the suitability",
+    "relation": "evaluate",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  },
+  {
+    "subject_text": "the calibration",
+    "relation": "evaluate",
+    "object_text": "equipment",
+    "subject_cls": "Unknown",
+    "object_cls": "Equipment"
+  }
+]
