@@ -102,7 +102,7 @@ This repository provides a minimal end-to-end pipeline to fine-tune a seq2seq Tr
 
 ## 📦 Model Directory
 
-The `models/` folder holds your fine‑tuned weights tracked via **Git LFS**. When you clone the repo:
+The `models/` folder will hold your fine‑tuned weights tracked via **Git LFS**. When you clone the repo:
 ```bash
 # Make sure Git LFS is installed
 git lfs install
